@@ -47,5 +47,5 @@ app.post('/submit', async (req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`Server running on http://localhost:${PORT}`);
+  console.log(`https://google-sheet-integration-boyftzgat-parzevl24s-projects.vercel.app`);
 });
